@@ -134,8 +134,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - [scikit-learn](https://scikit-learn.org/)
 ```
 
-### Steps to Adjust:
-- Replace `<your-username>` with your actual GitHub username.
-- Adjust the script names or project structure to match your file organization.
-- Add a `LICENSE` file if you're using a specific license.
+
  
